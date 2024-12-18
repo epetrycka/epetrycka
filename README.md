@@ -5,3 +5,4 @@
 - 😄 I'm a pianist
 - ⚡ I love all animals, especially dachshunds, and hiking mountains
 - 🔭 I’m currently working on my own projects to learn new tools
+- 🛼 My [resume]([https://link-url-here.org](https://github.com/epetrycka/epetrycka/blob/main/CV.pdf))
